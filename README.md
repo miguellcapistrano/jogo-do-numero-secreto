@@ -17,3 +17,7 @@ Durante a criação deste jogo, adquiri conhecimentos valiosos, incluindo:
 - Refatoração da função de sorteio do número secreto, tornando-a mais robusta e evitando repetições.
 
 Espero que este projeto demonstre meu progresso e habilidades no desenvolvimento de jogos e programação em geral.
+
+## Link para o Jogo
+
+Acesse o jogo [aqui](https://jogo-do-numero-secreto-jade-three.vercel.app/).
