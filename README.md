@@ -1,6 +1,6 @@
 # Jogo da Adivinhação
 
-Este repositório é dedicado ao desenvolvimento de um jogo como parte do curso Alura+Oracle ONE para aprimorar meu portfólio.
+Este repositório é dedicado ao desenvolvimento de um jogo como parte do programa Alura+Oracle ONE para aprimorar meu portfólio.
 
 ## Aprendizados
 
